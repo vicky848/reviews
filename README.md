@@ -1,7 +1,29 @@
-<<<<<<< HEAD
+React Assignment 1 - Reviews Page
+Goal
+The goal of this project is to deploy a single-page application on Vercel with a dynamic reviews section built using the Axios framework in React.js/Next.js. The reviews section will fetch data from a provided REST API and display it on the page.
+
+Task
+Create a page using the following technologies:
+React.js or Next.js
+REST API
+Axios
+Vercel
+Match the design of the provided page as closely as possible using any React framework.
+Make the reviews section dynamic by consuming the following API using the Axios NPM package:
+API Endpoint: https://admin.tomedes.com/api/v1/get-reviews?page=1
+Design
+The design for the page can be found here. The goal is to match this design as closely as possible in the implementation.
+
+Setup Locally
+
+
+
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
