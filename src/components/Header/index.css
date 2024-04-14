@@ -1,0 +1,11 @@
+.header-container{
+    display: flex;
+    justify-content: center;
+    
+}
+.header{
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: rgb(22, 21, 21);
+}
