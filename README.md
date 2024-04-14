@@ -1,4 +1,4 @@
-React Assignment 1 - Reviews Page
+React Assignment  - Reviews Page
 Goal
 The goal of this project is to deploy a single-page application on Vercel with a dynamic reviews section built using the Axios framework in React.js/Next.js. The reviews section will fetch data from a provided REST API and display it on the page.
 
